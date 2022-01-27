@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-image: url(./assets/images.jfif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.Container{
+    background: #ffffff;
+    border: 3px solid #ffffff;
+    border-radius: 5px;
+    width: 50%;
+    margin: 120px 325px;
+ 
+}
+
+header{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+
+.labels{
+    
+    font-size: 14px;
+    display: block;
+    margin: 0 33px ;
+    color: #D3D3D3;
+}
+
+.inputs{
+    cursor: pointer;
+    margin: 10px 33px 10px;
+    padding: 15px;
+    border: 2px solid #D2D3D3;
+    width: 90%;
+    height: 50px;
+}
+
+.user-icon{
+    margin-top: 20px;
+    width: 30px;
+    position:absolute;
+}
+
+.Forgot-Password{
+    text-align: end;
+    padding-right: 19px;
+    font-size: 15px;
+    color:#D3D3D3 ;
+}
+
+button{
+    background-image: url(./assets/images.jfif);
+    color: white;
+    width: 379px;
+    height: 48px;
+    margin: 20px 180px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover{
+    opacity: 0.7;
+}
+
+button:active{
+    opacity: 0.3;
+}
+
+p{
+    cursor: pointer;
+    margin-top: 35px;
+    margin-left: 300px;
+    color: #D3D3D3;
+}
+
+.Facebook-icon{
+    position: relative;
+    width: 50px;
+    margin-top: 20px;
+    margin-left: 290px;
+    cursor: pointer;
+}
+
+
+.Insta-icon{
+    position: absolute;
+    width: 50px;
+    margin-left: 50px;
+    padding-top: 20px;
+    cursor: pointer;
+}
