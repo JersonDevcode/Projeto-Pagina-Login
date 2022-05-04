@@ -16,7 +16,7 @@ O projeto Foi desenvolvido e Concluido
 - [x] Ajuste dos elementos 
 - [x] Conclusão do layout
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+<a href="https://www.linkedin.com/in/jerson-de-carvalho-da-silveira-04815522a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 <table>
   <tr>
@@ -28,9 +28,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
-
-
-[⬆ Voltar ao topo](#Project-Page-Login)<br>
-
-	
-    
+	  
